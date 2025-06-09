@@ -1,7 +1,6 @@
 import streamlit as st
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from google_play_scraper import reviews
-import torch
 
 MODEL_PATH = "leon6523/t5-small-finetuned-opinosis"
 
