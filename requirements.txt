@@ -1,2 +1,3 @@
 transformers
 google_play_scraper
+torch
